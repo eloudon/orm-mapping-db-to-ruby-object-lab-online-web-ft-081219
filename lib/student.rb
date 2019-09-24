@@ -126,4 +126,3 @@ def self.count_all_students_in_grade_9
      self.new_from_db(row)
    end
  end
-end
